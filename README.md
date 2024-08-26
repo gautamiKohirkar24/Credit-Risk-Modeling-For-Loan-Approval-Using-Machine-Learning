@@ -1,2 +1,2 @@
-# Customer-Churn-Prediction
-Customer churn prediction project
+# Credit-Risk-modelling
+Credit risk modelling project
