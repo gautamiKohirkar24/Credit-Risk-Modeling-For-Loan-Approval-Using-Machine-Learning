@@ -22,25 +22,24 @@ The available dataset includes a comprehensive set of features such as:
    - Ensure the data is suitable for machine learning algorithms.
 
 2. **Feature Engineering and Selection**
-   - Identify and create relevant features that enhance the model’s predictive power.
+   - Identifying and creating relevant features that enhance the model’s predictive power.
    - Reduce dimensionality to improve efficiency.
 
 3. **Model Development**
-   - Explore and implement various machine learning algorithms:
+   - Exploring and implement various machine learning algorithms:
      - Logistic Regression
      - Decision Trees
      - Random Forests
      - Gradient Boosting
-     - Neural Networks
+     - XG Boosting
 
 4. **Model Evaluation and Validation**
-   - Assess the performance of different models using appropriate metrics:
+   - Assessing the performance of different models using appropriate metrics:
      - Accuracy
      - Precision
      - Recall
      - F1-Score
-     - ROC-AUC
-   - Validate the chosen model to ensure its robustness and generalizability.
+   - Validated the chosen model to ensure its robustness and generalizability.
 
 5. **Deployment and Integration**
    - Develop a system for integrating the predictive model into the bank’s loan approval workflow.
