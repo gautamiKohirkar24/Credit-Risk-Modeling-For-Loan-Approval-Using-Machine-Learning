@@ -27,7 +27,6 @@ The available dataset includes a comprehensive set of features such as:
 
 3. **Model Development**
    - Exploring and implement various machine learning algorithms:
-     - Logistic Regression
      - Decision Trees
      - Random Forests
      - Gradient Boosting
