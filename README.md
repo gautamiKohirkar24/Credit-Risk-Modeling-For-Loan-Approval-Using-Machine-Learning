@@ -1,7 +1,5 @@
 # Credit Risk Modeling for Loan Approval Using Machine Learning
 
-![Loan Approval Prediction](https://www.kaggle.com/datasets/architsharma01/loan-approval-prediction-dataset)
-
 
 ### Project Overview
 
