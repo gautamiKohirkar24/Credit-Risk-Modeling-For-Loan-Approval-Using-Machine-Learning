@@ -1,5 +1,8 @@
 # Credit Risk Modeling for Loan Approval Using Machine Learning
 
+![Loan Approval Prediction](https://www.kaggle.com/datasets/architsharma01/loan-approval-prediction-dataset)
+
+
 ### Project Overview
 
 In the banking industry, accurately assessing the creditworthiness of loan applicants is essential to minimize default rates, manage risk, and ensure profitability. Traditional credit evaluation methods often rely on rule-based approaches and may not effectively capture the complex, non-linear relationships present in applicant data. 
